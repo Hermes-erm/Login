@@ -1,0 +1,15 @@
+#home_root{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(63, 172, 107);
+}
+
+.samp{
+    font-size: 50px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
